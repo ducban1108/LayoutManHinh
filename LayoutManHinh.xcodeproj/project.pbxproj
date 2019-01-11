@@ -12,6 +12,7 @@
 		1387D71521E5EC2300454E06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1387D71321E5EC2300454E06 /* Main.storyboard */; };
 		1387D71721E5EC2400454E06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1387D71621E5EC2400454E06 /* Assets.xcassets */; };
 		1387D71A21E5EC2400454E06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1387D71821E5EC2400454E06 /* LaunchScreen.storyboard */; };
+		13A3B7FC21E7425B00423F8E /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13A3B7FB21E7425B00423F8E /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1387D71621E5EC2400454E06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1387D71921E5EC2400454E06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1387D71B21E5EC2400454E06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13A3B7FB21E7425B00423F8E /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1387D70F21E5EC2300454E06 /* AppDelegate.swift */,
 				1387D71121E5EC2300454E06 /* ViewController.swift */,
+				13A3B7FB21E7425B00423F8E /* ImageViewController.swift */,
 				1387D71321E5EC2300454E06 /* Main.storyboard */,
 				1387D71621E5EC2400454E06 /* Assets.xcassets */,
 				1387D71821E5EC2400454E06 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1387D71221E5EC2300454E06 /* ViewController.swift in Sources */,
+				13A3B7FC21E7425B00423F8E /* ImageViewController.swift in Sources */,
 				1387D71021E5EC2300454E06 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
